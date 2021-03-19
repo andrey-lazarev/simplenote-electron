@@ -62,7 +62,9 @@
   .search-match {
     background-color: transparent;
     color: $studio-blue-60;
-    font-weight: 600;
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 0;
   }
 }
 
