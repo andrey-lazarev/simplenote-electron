@@ -259,10 +259,11 @@ span[dir='ltr'] {
   }
 
   .search-decoration {
-    background-color: rgba($studio-simplenote-blue-50, 0.4);
+    background-color: $studio-simplenote-blue-50;
   }
   .selected-search {
-    background-color: $studio-simplenote-blue-50;
+    background-color: $studio-yellow-30;
+    color: $studio-gray-90;
   }
 
   .settings-group p {
